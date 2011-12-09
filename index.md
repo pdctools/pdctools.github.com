@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 Ain't Nobody Here But Us Chickens
