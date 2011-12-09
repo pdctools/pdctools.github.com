@@ -110,11 +110,6 @@ a img {
      Header Styles
 ------------------------------------------------------------------------------*/
 
-.site {
-  font-size: 60px;
-  line-height: normal;
-}
-
 #header-wrapper {
   margin-bottom: 0;
   clear: both;
@@ -125,6 +120,8 @@ a img {
 #header {
   margin: 0 auto;
   width: 920px;
+  font-size: 60px;
+  line-height: normal;
 }
 
 #header a.logo {
