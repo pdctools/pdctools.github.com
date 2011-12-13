@@ -49,7 +49,7 @@ a img {
 
 #header {
 	width: 900px;
-	height: 130px;
+	/* height: 130px; */
 	margin: 0px auto;
 	background: #699C4D;
 }
@@ -60,43 +60,49 @@ a img {
 }
 
 #header h1, #header p {
-	margin: 0px;
+	margin: 0px 0px 0px 0px;
 	line-height: normal;
 	font-weight: normal;
 	color: #FFFFFF;
 }
 
 #header h1 {
-	padding: 25px 0px 0px 0px;
+	padding: 25px 0px 25px 0px;
 }
 
 
 /* Logo */
 
 #logo{
-	float: left;
-	background: url(/images/img03.jpg) no-repeat left top;
-	padding-left: 70px;
+ 	/* float: left; */
+	/* background: url(/images/img03.jpg) no-repeat left top; */
+	/* padding-left: 70px; */
+	width: 100%;
+	font-size: 20px;
+	text-align: center;
+	font-variant: small-caps;
 }
 
 
 /* Menu */
 
 #menu {
-	float: right;
+	/* float: right; */
+	display: block;
 	background: #243F12;
 	border-top: 2px #9BC56F solid;
-	margin: 30px 0 0 0;
+	margin: 0px auto 0px auto;
 }
 
 #menu ul {
-	margin: 0px 0 0 0;
+	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
 	list-style: none;
 	line-height: normal;
 }
 
 #menu li {
+	width: auto;
 	float: left;
 	margin: 0px 0px 0px 1px;
 }
