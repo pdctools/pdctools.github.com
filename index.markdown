@@ -5,7 +5,7 @@ layout: default
 
 ## Ain't Nobody Here But Us Chickens ##
 
-![kitteh!] (http://placekitten.com/600/401)
+> ![kitteh!] (http://placekitten.com/600/401)
 
 but we haz (empty, as for now):
 
